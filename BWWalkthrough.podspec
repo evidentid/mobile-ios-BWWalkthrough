@@ -11,5 +11,5 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '10.0'
   spec.requires_arc = true
   spec.module_name = 'BWWalkthrough'
-  spec.swift_version = '4.2'
+  spec.swift_version = '5.3'
 end
